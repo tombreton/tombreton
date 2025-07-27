@@ -1,3 +1,7 @@
-# Howdy Y'all! 👋
+# Hello friends! 👋
 
-I love coding Python, hiking, and sci-fi movies!
+I love reading history and science fiction.
+
+I live in Austin, originally from Michigan.
+
+I'm transitioning to a career in Technical Writing.
